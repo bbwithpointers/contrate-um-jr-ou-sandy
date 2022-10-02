@@ -7,13 +7,16 @@ A ideia é que além de servir para divulgar vagas, as pessoas devs possam contr
 
 Sprints: 
 
-1) em andamento
+1) Em andamento
 
 Backend:
 - API Java 11 | Spring boot 2.7
 - MySQL | Flyway
 
 
-2) não iniciada
+
+-----------
+2) Não iniciada
+
 Frontend:
 - Angular 
