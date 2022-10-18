@@ -19,4 +19,4 @@ A ideia é que além de servir para divulgar vagas, as pessoas devs possam contr
 2) Não iniciada
 
 # Frontend:
-- Angular 
+- Angular - lastest version
